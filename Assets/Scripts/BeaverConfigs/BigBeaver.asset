@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df7778ac2fd60e646ba050a3cc74636d, type: 3}
+  m_Name: BigBeaver
+  m_EditorClassIdentifier: 
+  Health: 5
+  LifeTime: 3
+  Model: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  Reward: 5
+  Damage: 3
+  ColorMaterial: {fileID: 2100000, guid: 235231c824a80184a9842488de64d295, type: 2}
+  DieParticle: {fileID: 2397799625075470441, guid: 3d5fe9bd569507f4e8e0200ba65f30d8, type: 3}
+  WinParticle: {fileID: 7529813548358505725, guid: f71982ff621e4a14e9ff09746be822c9, type: 3}
